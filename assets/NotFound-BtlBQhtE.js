@@ -1,0 +1,1 @@
+import{j as t}from"./index-CTktf8Zz.js";import{L as e}from"./App-Ch7twTRe.js";function x(){return t.jsxs("div",{className:"text-center pt-24",children:[t.jsx("h1",{className:"text-2xl",children:"Такой страницы не существует 🙁"}),t.jsx(e,{className:"text-4xl text-blue-700 ",to:"/",children:"На главную"})]})}export{x as default};
